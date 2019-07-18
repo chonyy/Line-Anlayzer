@@ -1,7 +1,10 @@
 #ins{
+    top: 2%;
     text-align: center;
     position: relative; 
     margin: auto;
+    color: lightyellow;
+    font-size: 40px;
 }
 
 body{
@@ -10,7 +13,23 @@ body{
     background: url(bg.jpg);
     background-repeat:   no-repeat;
     background-size: cover;
-    opacity: 0.5;
+    /* opacity: 0.5; */
+}
+
+#start{
+    font-size: 70px;
+    color: white;
+    line-height: 300px;
+    vertical-align: middle;
+    text-align: center;
+    top:35%;
+    position: relative;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    background: lightskyblue;
+    border-radius: 50%;
+    opacity: 0.75;
 }
 
 /* div {
