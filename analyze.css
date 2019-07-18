@@ -4,16 +4,16 @@
     margin: auto;
 }
 
-/* body{
+body{
     width: 100%;
     height: 100vh;
     background: url(bg.jpg);
     background-repeat:   no-repeat;
     background-size: cover;
     opacity: 0.5;
-} */
+}
 
-div {
+/* div {
     width: 100%;
     height: 100vh;
     display: block;
@@ -31,4 +31,4 @@ div {
     right: 0;
     position: absolute;
     z-index: -1;   
-  }
+  } */
