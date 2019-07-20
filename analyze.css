@@ -127,19 +127,19 @@ nav{
 }
 
 #start{
-    font-size: 55px;
+    font-size: 45px;
     color: white;
-    line-height: 225px;
+    line-height: 200px;
     vertical-align: middle;
     text-align: center;
-    top: 200px;  
+    top: 175px;  
     position: absolute;
     left: 0;
     right: 0;
     margin-left: auto;
     margin-right: auto;
-    height: 225px;
-    width: 225px;
+    height: 200px;
+    width: 200px;
     background: #456345;
     border-radius: 50%;
     opacity: 0.8;
@@ -164,15 +164,15 @@ nav{
 
 #outercircle{
     position: absolute;
-    top: 182px;
+    top: 157px;
     left: 0;
     right: 0;
     margin-left: auto;
     margin-right: auto;
     border: 6px solid #456e46; 
 	border-radius: 50%;
-	width: 250px;
-	height: 250px;
+	width: 225px;
+	height: 225px;
     z-index: 1;
     opacity: 0.8;
 }
