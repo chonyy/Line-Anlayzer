@@ -196,7 +196,7 @@ section .wave {
     height: 65px;
     bottom: 0;
     left: 0;
-    opacity: 0.8;
+    opacity: 0.7;
     background: url(wave.png);
     animation: animate 10s linear infinite;
     z-index: -1;
@@ -210,7 +210,7 @@ section .wave:before{
     position: absolute;
     top: 0;
     left: 0;
-    opacity: 0.4;
+    opacity: 0.6;
     animation: animate-reverse 10s linear infinite;
 }
 
@@ -222,7 +222,7 @@ section .wave:after{
     position: absolute;
     top: 0;
     left: 0;
-    opacity: 0.6;
+    opacity: 0.5;
     animation-delay: -5s;
     animation: animate 20s linear infinite;
 }
