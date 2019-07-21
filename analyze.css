@@ -33,7 +33,7 @@ body{
         background-position: 0 0;
     }
     100%{
-        background-position: -15% 120%;
+        background-position: -15% 130%;
     }
 }
 
@@ -157,6 +157,7 @@ nav{
 
 
 #start{
+    letter-spacing: 3px;
     font-size: 45px;
     color: lightyellow;
     line-height: 200px;
