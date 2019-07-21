@@ -25,7 +25,7 @@ body{
     width: 100%;
     height: 100%;
     background: url(rain.png);
-    animation: rain 0.25s linear infinite;
+    animation: rain 0.2s linear infinite;
 }
 
 @keyframes rain{
@@ -33,7 +33,7 @@ body{
         background-position: 0 0;
     }
     100%{
-        background-position: -13% 100%;
+        background-position: -15% 120%;
     }
 }
 
