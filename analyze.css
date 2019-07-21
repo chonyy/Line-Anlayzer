@@ -211,7 +211,7 @@ nav{
 section .wave {
     position: absolute;
     width: 100%;
-    height: 65px;
+    height: 55px;
     bottom: 0;
     left: 0;
     opacity: 0.6;
@@ -223,7 +223,7 @@ section .wave {
 section .wave:before{
     content: '';
     width: 100%; 
-    height: 65px;
+    height: 55px;
     background: url(wave.png);
     position: absolute;
     top: 0;
@@ -236,7 +236,7 @@ section .wave:before{
 section .wave:after{
     content: '';
     width: 100%; 
-    height: 65px;
+    height: 55px;
     background: url(wave.png);
     position: absolute;
     top: 0;
@@ -252,13 +252,13 @@ section .wave:after{
         background-position: 0;
     }
     100%{
-        background-position: 617px;
+        background-position: 524px;
     }
 }
 
 @keyframes animate-reverse {
     0% {
-        background-position: 617px;
+        background-position: 524px;
     }
     100%{
         background-position: 0;
