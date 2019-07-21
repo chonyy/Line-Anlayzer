@@ -37,6 +37,7 @@ nav{
     background-color: grey;
     z-index: 100;
     opacity: 0.85;
+    border-color: red;
     /* #0076c9 */
 }
 
