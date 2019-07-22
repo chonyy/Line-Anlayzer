@@ -240,7 +240,7 @@ section #wave-high{
     left: 0;
     opacity: 0.4;
     background: url(waveHigh.png);
-    animation: animateHigh 10s linear infinite;
+    animation: animateHigh 15s linear infinite;
     z-index: -2;
 }
 
