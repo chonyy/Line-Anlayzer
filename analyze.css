@@ -127,6 +127,17 @@ nav{
     .burger{
         display: block;
     }
+    body #start{
+        line-height: 175px;
+        top: 175px;  
+        height: 175px;
+        width: 175px;
+    }
+    body #outercircle{
+        top: 156px;
+        width: 200px;
+        height: 200px;
+    }
 }
 
 .nav-active{
@@ -160,17 +171,18 @@ nav{
     letter-spacing: 3px;
     font-size: 45px;
     color: lightyellow;
-    line-height: 175px;
-    vertical-align: middle;
+    text-shadow: 3px 4px 4px #000000;
     text-align: center;
-    top: 175px;  
+    line-height: 300px;
+    vertical-align: middle;   
+    top: 325px;  
     position: absolute;
     left: 0;
     right: 0;
     margin-left: auto;
     margin-right: auto;
-    height: 175px;
-    width: 175px;
+    height: 300px;
+    width: 300px;
     background: #456345;
     border-radius: 50%;
     opacity: 0.8;
@@ -195,15 +207,15 @@ nav{
 
 #outercircle{
     position: absolute;
-    top: 156px;
+    top: 294px;
     left: 0;
     right: 0;
     margin-left: auto;
     margin-right: auto;
     border: 6px solid #456e46; 
 	border-radius: 50%;
-	width: 200px;
-	height: 200px;
+	width: 350px;
+	height: 350px;
     z-index: -1;
     opacity: 0.8;
 }
