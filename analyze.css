@@ -50,7 +50,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 8vh;
+    min-height: 8%;
     background-color: grey;
     z-index: 100;
     opacity: 0.85;
@@ -110,7 +110,7 @@ nav{
         padding: 0px;
         position: fixed;
         right: 0px;
-        height: 92vh;
+        height: 92%;
         top: 8vh;
         background-color:grey;
         display: flex;
