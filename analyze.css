@@ -103,18 +103,17 @@ nav{
 
 @media screen and (max-width: 768px){
     html, body{
-        overflow-y: hidden;
-        overflow-x: hidden;
+        /* overflow-y: hidden;
+        overflow-x: hidden; */
+        overflow: hidden;
     }
     .nav-links{
-        overflow-y: hidden;
-        overflow-x: hidden;
         padding: 0px;
         position: absolute;
         right: 0px;
         height: 85%;
         top: 8%;
-        background-color:grey;
+        background-color:darkgreen;
         flex-direction: column;
         align-items: center; 
         width: 70%;
