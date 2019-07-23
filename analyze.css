@@ -187,7 +187,7 @@ nav{
     border-radius: 50%;
     opacity: 0.8;
     z-index: -1;
-    animation: pulse 5s linear infinite;
+    animation: pulse 4s linear infinite;
 }
 
 @keyframes pulse{
