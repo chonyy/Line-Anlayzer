@@ -107,6 +107,8 @@ nav{
         overflow-x: hidden;
     }
     .nav-links{
+        overflow-y: hidden;
+        overflow-x: hidden;
         padding: 0px;
         position: absolute;
         right: 0px;
